@@ -1,0 +1,51 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Learning Android</string>
+
+    <string name="profile" tools:ignore="StringEscaping,TypographyDashes">Doctor Profile</string>
+    <string name="person">Mikle Goldsworthy</string>
+    <string name="id_person" tools:ignore="TypographyDashes">ACA 10–49-2222</string>
+    <string name="cardiology">Cardiology</string>
+    <string name="surgery">Surgery</string>
+    <string name="more">+3 more</string>
+    <string name="activity_log">Activity Log</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="show_subscribtions">Show subscribtions</string>
+    <string name="not_valid">not valid</string>
+    <string name="valid">valid</string>
+    <string name="subscribed">Subscribed</string>
+    <string name="newsletter_sub">Newsletter subscribtion</string>
+    <string name="ex_mail">senjaAngion2610@gmail.com</string>
+    <string name="email">Email:</string>
+    <string name="ex_no.phone">+62 969 9646 4561</string>
+    <string name="phone_num">Phone Number:</string>
+    <string name="ex_address_detail">Upper Brook St, Manchester M13 9NZ, United Kingdom</string>
+    <string name="ex_address">Manchester Royal Infirmary</string>
+    <string name="place_of_work">Place of work:</string>
+    <string name="ex_specialization">UI/UX Designer</string>
+    <string name="specialization">Specialization</string>
+    <string name="ex_city">Manchester</string>
+    <string name="city">City</string>
+    <string name="ex_days">in 6 days</string>
+    <string name="ex_weekly_activity_log">Weekly activity log</string>
+    <string name="ex_time">18:37</string>
+    <string name="ex_date">30 Juni 2020</string>
+    <string name="last_activity">Last Activity :</string>
+
+
+    <string name="num56">56</string>
+    <string name="pages_visited">Pages visited</string>
+    <string name="aim">Aim:</string>
+    <string name="num21">21</string>
+    <string name="details">Details</string>
+    <string name="num5">5</string>
+    <string name="num1">1</string>
+    <string name="num6">6</string>
+    <string name="num3">3</string>
+    <string name="webinars_attended">Webinars attended</string>
+    <string name="comments_macha">Comments macha</string>
+    <string name="back">Back to profile</string>
+    <string name="digital_marketing">Digital Marketing</string>
+    <string name="video_content">Video content</string>
+    <string name="all_categories">All categories</string>
+    <string name="webinars">Webinars</string>
+</resources>
